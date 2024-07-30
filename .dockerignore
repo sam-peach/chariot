@@ -1,0 +1,5 @@
+migrations/
+script/
+docker/
+tmp/
+.env
